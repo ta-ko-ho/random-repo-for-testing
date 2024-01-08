@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: ta-ko-ho-random-repo-for-testing
+package: ta-ko-ho/random-repo-for-testing
